@@ -12,3 +12,10 @@ h1, p{
 	font-size: 70%;
 	font-weight: 400;
 }
+
+.logo{
+	width:192px;
+	margin:0 auto;
+	margin-bottom: 8em;
+	margin-top: 3em;
+}
