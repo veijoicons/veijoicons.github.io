@@ -2,6 +2,13 @@ html {
     background-color: #f2efe1;
     color: #473962;
     font-size: 1em;
-    line-height: 1.4;
+    line-height: 1.3;
     font-family: monaco, Consolas, 'Lucida Console', monospace;
+    padding-top: 3em;
+    text-align: center;
+}
+
+h1, p{
+	font-size: 70%;
+	font-weight: 400;
 }
